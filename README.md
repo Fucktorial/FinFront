@@ -1,8 +1,9 @@
-<div align="center">
+<div>
 
 # Fin App
 
-## 🚧🚧🚧 UNDER CONSTRUCTION 🚧🚧🚧
+- This app helps manage where your money is going and how you can comfortably spend your income, can help you organize your finances, which can improve your finances. 
+- This app may connect to your bank account and credit cards to automatically download transactions and categorize your spending to match the budget you choose.
 
 </div>
 
